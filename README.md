@@ -33,4 +33,6 @@ Contributions are welcome, especially:
  * Enhanced visuals or new pages in the Power BI report
  * Documentation improvements
  * Bug fixes or suggestions for dashboard enhancements
+   ![WhatsApp Image 2025-06-27 at 11 13 01 AM](https://github.com/user-attachments/assets/51c5fd32-f61f-40b3-9e24-dfc6cd1424d7)
+
 
